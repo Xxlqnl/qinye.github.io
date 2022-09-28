@@ -1,0 +1,41 @@
+*{margin: 0 0;}
+div.all{text-align: center;}
+div.all_o{background-image: url("img/scenery_o.jpg")}
+a{text-decoration: none;color: white;font-size: xx-large;
+    font-family: 宋体;font-weight: bolder;}
+div.header{width: 1900px;height: 1000px;}
+
+div.one{width: 1900px;height:100px;}
+div.one_a{width: 700px;height:100px;text-align: center;float: left;line-height: 100px;background-color: black;}
+div.one_b{width: 300px;height:100px;text-align: center;line-height:100px;float: left;background-color: black;}
+div.one_b:hover{background-color: chartreuse;}
+/*    导航部分完成*/
+
+div.two{width: 1900px;height: 500px;background-image: url("img/sc.jpg")}
+div.two_a{width: 1200px;height: 500px;margin-right: 100px;
+    line-height:100px;float:left;font-size: xx-large;
+    font-family: 宋体;font-weight: bolder;}
+div.two_b{width: 500px;height: 500px;margin-left: 100px;float: left;}
+/*个人简介完成*/
+
+div.three{width: 1900px;height: 500px;}
+div.three_a{width: 500px;height: 500px;
+    line-height:100px;float:left;font-size: xx-large;
+    font-family: 宋体;font-weight: bolder;}
+div.three_b{width: 1400px;height: 500px;
+    line-height:100px;float:left;font-size: xx-large;
+    font-family: 宋体;font-weight: bolder;}
+
+div.four{width: 1900px;height:800px;}
+div.four_a{width: 1900px;height: 100px;text-align: center;line-height:100px;font-size: xx-large;
+    font-family: 宋体;font-weight: bolder;}
+div.four_b{width: 1000px;height: 666px;margin-left: 450px;}
+div.four_c{height:804px; width:1000px;margin-left: 450px;}
+div.four_d{width: 1000px;height: 662px;margin-left: 450px;}
+div.four_d{width: 1000px;height: 662px;margin-left: 450px;}
+/*我的向往完成*/
+
+div.five{width: 1900px;height: 500px;text-align: center;line-height:100px;font-size: xx-large;
+    font-family: 宋体;font-weight: bolder;}
+div.six{width: 1900px;height: 100px;background-color: #2b7d86;text-align: center;line-height:100px;font-size: xx-large;
+    font-family: 宋体;font-weight: bolder;}
